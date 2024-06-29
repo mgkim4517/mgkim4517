@@ -3,6 +3,7 @@
 </div>
 
 <div align=center>
+  <h3>🎈My Skill's🎈</h3>
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
@@ -16,6 +17,14 @@
   <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 </div>
 
+<div align=center>
+  <h4>Check out my portfolio<a href="https://mgkim4517.github.io/portfolio/"> 💞Click Here!💞</a></h4>
+</div>
+
+<div align=center>
+  <h3>🔥Contach🔥</h3>
+  <p>📧 E-mail : zouxy@naver.com</p>
+</div>
 <!--
 **mgkim4517/mgkim4517** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
