@@ -22,7 +22,7 @@
 </div>
 
 <div align=center>
-  <h3>🔥Contach🔥</h3>
+  <h3>🔥Contact🔥</h3>
   <p>📧 E-mail : zouxy@naver.com</p>
 </div>
 <!--
